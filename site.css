@@ -7,3 +7,13 @@
 .page-top > p {
      font-size: 1.5em;
 }
+#info {
+     padding-top:50px;
+     padding-bottom:50px;
+}
+.nav-pills a {
+     font-family: 'Chewy', cursive;
+}
+.tab-content {
+     padding-top:25px;
+}
